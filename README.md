@@ -1,4 +1,4 @@
 # Do not touch the hedgehog
-My old c++ SDL2 game
+My old C++ SDL2 game
 
-[linkname](https://www.youtube.com/watch?v=maAwaOp8A-US)
+[![gameplay](https://www.youtube.com/watch?v=maAwaOp8A-U/0.jpg)](https://www.youtube.com/watch?v=maAwaOp8A-U)
